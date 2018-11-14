@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a19fb31bdc57c95438d5bc92f130f0b8
+labels:
+- ShaderGraph
+ScriptedImporter:
+  fileIDToRecycleName:
+    4800000: MainAsset
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
